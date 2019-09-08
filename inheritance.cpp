@@ -3,6 +3,7 @@ using namespace std;
 class A
 {
 
+
 	int a=10;
 protected:
 	int aA=100;
